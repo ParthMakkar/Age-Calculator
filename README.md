@@ -3,7 +3,7 @@ hey everyone.....this is a basic project code in which we use some basics of htm
 in this we use some basics input tags and some basics styling tag like margin,getdobfunction in which then can help to take an input from the html input element,it can also retrieve the current date of the year and the month also
  Using some major tags like div,header,input,label,
 
- And in sript tag we can connect a javascript file <script src="script.js"></script>  // here src is the source of the js file
+ And in script tag we can connect a javascript file <script src="script.js"></script>  // here src is the source of the js file
 
  And whenever we want to add some styling we can use a html.index file to use css styling..
 
